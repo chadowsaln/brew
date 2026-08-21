@@ -1,6 +1,6 @@
 {
-    "name": "cofe_app",
-    "short_name": "cofe_app",
+    "name": "coffe_manager",
+    "short_name": "coffe_manager",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
